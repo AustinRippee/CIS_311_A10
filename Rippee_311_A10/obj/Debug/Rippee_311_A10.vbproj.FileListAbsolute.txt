@@ -1,0 +1,11 @@
+C:\Users\Austin Rippee\source\repos\Rippee_311_A10\Rippee_311_A10\bin\Debug\Rippee_311_A10.dll
+C:\Users\Austin Rippee\source\repos\Rippee_311_A10\Rippee_311_A10\bin\Debug\Rippee_311_A10.pdb
+C:\Users\Austin Rippee\source\repos\Rippee_311_A10\Rippee_311_A10\bin\Debug\Rippee_311_A10.xml
+C:\Users\Austin Rippee\source\repos\Rippee_311_A10\Rippee_311_A10\obj\Debug\Rippee_311_A10.Resources.resources
+C:\Users\Austin Rippee\source\repos\Rippee_311_A10\Rippee_311_A10\obj\Debug\Rippee_311_A10.myClock.resources
+C:\Users\Austin Rippee\source\repos\Rippee_311_A10\Rippee_311_A10\obj\Debug\Rippee_311_A10.vbproj.GenerateResource.cache
+C:\Users\Austin Rippee\source\repos\Rippee_311_A10\Rippee_311_A10\obj\Debug\Rippee_311_A10.vbproj.CoreCompileInputs.cache
+C:\Users\Austin Rippee\source\repos\Rippee_311_A10\Rippee_311_A10\obj\Debug\Rippee_311_A10.dll
+C:\Users\Austin Rippee\source\repos\Rippee_311_A10\Rippee_311_A10\obj\Debug\Rippee_311_A10.xml
+C:\Users\Austin Rippee\source\repos\Rippee_311_A10\Rippee_311_A10\obj\Debug\Rippee_311_A10.pdb
+C:\Users\Austin Rippee\source\repos\Rippee_311_A10\Rippee_311_A10\obj\Debug\Rippee_311_A10.vbproj.AssemblyReference.cache
